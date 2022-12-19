@@ -1,0 +1,133 @@
+---
+title:
+- type: main
+  text: Newcomer guide
+- type: subtitle
+  text: Welcome to Terra Frutis
+author: Terra Frutis
+rights:  Creative Commons Non-Commercial Share Alike 3.0
+language: en
+...
+
+# Introduction
+
+We created this short guide to ensure you receive the most vital information for living at Terra Frutis, including details that are easily forgotten.
+
+If anything is missing in this guide, you have any questions, or if you have suggestions for improvement, please let us know.
+
+
+# Fees / utilities
+
+There are a few things that you are able to use here that carry a fee to cover their expense. These are listed below:
+
+- Internet and electricity, $15/month.
+- Mattress rental, $10/month.
+- The washing machine, $1.50 per load. **Before each use**, log it on the dedicated form.
+- The dryer can be used at $2 per load. Note each use on the log sheet.
+- The hot tub can be filled once per week (Saturday) for everyone to use for free. Every additional use is $5.
+
+
+## For renters
+
+For those renting, the following are already included in the rent price:
+
+- Internet and electricity
+- Mattress rental
+- Two washing machine loads and one dryer load per month
+
+
+# Compost toilet
+
+We use compost toilets here, which means we poop in a bucket in one of the outhouses and then we cover the poop with a couple handfuls of sawdust.
+
+We recommend water or leaves to clean your bum after pooping. Some outhouses have a bidet, otherwise, a small bottle of water does the job.
+We don't provide toilet paper but you can buy your own if you want.
+
+We request that you poop in the bucket because this provides valuable fertilizer (humanure) and limits the risks of having poop where we don't want. In an emergency you can poop outside, doing so in a place where people won't run into it. It could be in a mulch pile by a fruit tree (remove some mulch, poop and the cover it with the mulch). Always cover your poop well (e.g. with leaves) so that flies don't come and spread disease, and so that it's not visible.
+
+Paper and cardboard are welcome in the compost.
+
+## Urine
+
+When you're at an outhouse to poop, it's fine to pee in the bucket. Otherwise, it's preferable not to, instead please urinate outside on a mulch pile. An alternative, especially good at night, is to pee in an appropriate container (this can then be used to fertilize further away).
+
+
+# Work
+
+Everyone (except renters) is expected to work a minimum of 20 hours per week. Most hours are met with farm-work. Sometimes there is organised group-work in the mornings led by an experienced TF member. For any hours not met by group-work (or in the case that there is no group-work), you are responsible for selecting tasks from the Trello board (see the link in your welcome email) and seeking instruction from either the person tagged if there is one, or a more experienced member.
+
+Taking out compost buckets, attending specific classes such as NVC or permaculture workshops count towards your hours. Other responsibilities related to your skills / interests may be assigned to you, and those will also go towards your hours.
+
+One option is to contribute to the social environment with any skills that you have, for example teaching yoga, Spanish, NVC or anything that can benefit the community. Let us know at a community meeting if you want to do this.
+
+If you take time off, please compensate with a donation of $2.5 per hour.
+
+
+# Safety tips
+
+## Snakes
+
+**The main concern** is snakes. They appear from time to time. **Be aware, keep your eyes open**.
+
+Although snake bites are very rare here, there are venomous, potentially deadly, snakes around. Most people recommend visiting the hospital if bitten, and to try to remember what the snake looked like so that they can provide the right anti-venom.
+
+## Machete
+
+Be careful when using the machete to prevent getting injured. **We've had a few people injure themselves**. Ask for a tutorial from an experienced member.
+
+## Minor threats
+
+### Spiders
+
+There is one spider here that we know is venomous. It is brownish and hairy. They are fairly big, commonly with a leg span of 13 cm (5.1 in). They like to hide in dark, dry places such as cardboard boxes, behind objects inside buildings etc. and even in towels. Keep your eyes open and don't stick your hand where you cannot see. Our experience with its bite is significant pain, but no-one has had any complications from it.  
+![](res/spider.jpg)
+
+**Check your boots before putting them on**
+
+### Wasps
+
+### Caterpillars
+
+Don't touch the "furry" ones.
+
+### Ants
+
+Some have painful bites, but normally cause no other complications.
+
+### Plants
+
+#### Urticants (nettle style)
+
+#### Thorns, spines, and prickles
+
+There are a big range of those, probably the most notable ones are peach palm (local name "chonta") and citrus trees.
+
+### Theft
+
+There have been instances of petty theft here, so please use the safes provided, and lock your rooms if you have any valuables. Thieves generally are mostly looking for money or phones.
+
+### Parasites
+
+They can be found in the water, soil, and on food you bring home from the market. Please wash your produce, **especially if preparing for others**.
+It is easy to get tested for parasites in town for $2, and both natural and conventional medicine is freely available.
+
+
+# Community meetings
+
+We have community meetings usually once a week, where we discuss and take decisions on various subjects concerning the community. We use a consensus process where everyone's opinions and suggestions are taken into consideration. We use unanimity as decision rule. All are welcome to join the meeting but attendance is not mandatory. If you do not attend you will need to read the meeting minutes to not miss any important decisions that could affect you.
+
+**Before you participate to meeting, we request you get familiar with consensus decision making** as we practice it.
+Options are the ["Consensus 101: Basic Training in Consensus"](https://youtu.be/_m3yjrC23Fc) video or the "Consensus-Oriented Decision-Making" book by Tim Hartnett.
+
+
+# Conflict resolution
+
+We encourage issues to be discussed as early as possible, not letting them linger and accumulate.
+
+Avoid involving more people than necessary, for example in a group email or chat involving many, or at the community meeting.
+
+1. First, exchange directly and privately with the person you have an issue with. As much as practical, use NVC (observation, feeling, need, request), and be respectful.
+2. If that fails, ask someone to mediate (Jonathan is a suggested mediator).
+3. If that fails, bring it to a community meeting.
+
+For guidance during this process, refer to chapter 11 about conflict resolution in the NVC book.

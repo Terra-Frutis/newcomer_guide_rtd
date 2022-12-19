@@ -1,0 +1,6 @@
+#!/bin/sh
+
+cd text
+
+pandoc guide.md kitchen.md dehydrator.md "food processing.md" hammock.md \
+    --epub-cover-image=../res/cover.svg -o "../TF Newcomer Guide.epub"
