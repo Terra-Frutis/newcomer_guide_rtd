@@ -26,6 +26,8 @@ There are a few things that you are able to use here that carry a fee to cover t
 - The dryer can be used at $2 per load. Note each use on the log sheet.
 - The hot tub can be filled once per week (Saturday) for everyone to use for free. Every additional use is $5.
 
+Laundry, Mattresses And Utilities Are Billed Monthly. An Email Is Sent To Inform How Much Is Owed. If You're Planning on Staying Several Months, You're Encouraged To Pay For Several Months At A Time. In CaseeCasee  Of Departure, Any Excess Is Fully Refundable.
+
 
 ## For renters
 
