@@ -26,6 +26,8 @@ There are a few things that you are able to use here that carry a fee to cover t
 - The dryer can be used at $2 per load. Note each use on the log sheet.
 - The hot tub can be filled once per week (Saturday) for everyone to use for free. Every additional use is $5.
 
+Laundry, mattresses and utilities are billed monthly. An email is sent out to inform you of how much is owed. If you're planning on staying several months, you're encouraged to pay for several months at a time. In case of departure, any excess is fully refundable.
+
 
 ## For renters
 
@@ -38,18 +40,20 @@ For those renting, the following are already included in the rent price:
 
 # Compost toilet
 
-We use compost toilets here, which means we poop in a bucket in one of the outhouses and then we cover the poop with a couple handfuls of sawdust.
+We use compost toilets here, which means we poop in a designated bucket and then we cover the poop with a couple handfuls of sawdust.
 
-We recommend water or leaves to clean your bum after pooping. Some outhouses have a bidet, otherwise, a small bottle of water does the job.
+We recommend water or leaves to clean your bum after pooping. Some (two) toilets have a bidet, otherwise, a small bottle of water does the job.
 We don't provide toilet paper but you can buy your own if you want.
 
 We request that you poop in the bucket because this provides valuable fertilizer (humanure) and limits the risks of having poop where we don't want. In an emergency you can poop outside, doing so in a place where people won't run into it. It could be in a mulch pile by a fruit tree (remove some mulch, poop and the cover it with the mulch). Always cover your poop well (e.g. with leaves) so that flies don't come and spread disease, and so that it's not visible.
+
+Buckets designated for the toilets are marked with a red ring, and should not be brought into/by the kitchen or other living spaces.
 
 Paper and cardboard are welcome in the compost.
 
 ## Urine
 
-When you're at an outhouse to poop, it's fine to pee in the bucket. Otherwise, it's preferable not to, instead please urinate outside on a mulch pile. An alternative, especially good at night, is to pee in an appropriate container (this can then be used to fertilize further away).
+When you're at an toilet to poop, it's fine to pee in the bucket. Otherwise, it's preferable not to, instead please urinate outside on a mulch pile. An alternative, especially good at night, is to pee in an appropriate container (this can then be used to fertilize further away).
 
 
 # Work
