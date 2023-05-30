@@ -17,5 +17,14 @@ do
     sources+=( "text/$n" )
 done
 
+# EPUB
 pandoc text/meta.md "${sources[@]}" --epub-cover-image=res/cover.svg -o "$OUT_NAME.epub"
-pandoc res/cover.svg "${sources[@]}" -o "$OUT_NAME.odt"
+
+# # ODT
+# pandoc res/cover.svg "${sources[@]}" -o "$OUT_NAME.odt"
+# 
+# # ODT to PDF
+# libreoffice  --convert-to pdf "../${OUT_NAME}.odt"
+
+# EPUB to PDF
+ebook-convert TF\ Newcomer\ Guide.epub TF\ Newcomer\ Guide.pdf
