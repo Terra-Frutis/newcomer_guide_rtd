@@ -47,7 +47,7 @@ We don't provide toilet paper but you can buy your own if you want.
 
 We request that you poop in the bucket because this provides valuable fertilizer (humanure) and limits the risks of having poop where we don't want. In an emergency you can poop outside, doing so in a place where people won't run into it. It could be in a mulch pile by a fruit tree (remove some mulch, poop and the cover it with the mulch). Always cover your poop well (e.g. with leaves) so that flies don't come and spread disease, and so that it's not visible.
 
-Buckets designated for the toilets are marked with a red ring, and should not be brought into/by the kitchen or other living spaces.
+The buckets designated for the toilets are marked with a red ring. No other buckets should be used for that use. They should exclusively be used for poop and should not be brought into/by the kitchen or other living spaces. 
 
 Paper and cardboard are welcome in the compost.
 
