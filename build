@@ -1,6 +1,21 @@
-#!/bin/sh
+#!/bin/bash
 
-cd text
+OUT_NAME="TF Newcomer Guide"
 
-pandoc guide.md kitchen.md dehydrator.md "food processing.md" hammock.md \
-    --epub-cover-image=../res/cover.svg -o "../TF Newcomer Guide.epub"
+source_names=(
+    guide.md
+    kitchen.md
+    dehydrator.md
+    "food processing.md"
+    hammock.md
+    )
+
+# add directory to file names
+sources=()
+for n in "${source_names[@]}"
+do
+    sources+=( "text/$n" )
+done
+
+pandoc text/meta.md "${sources[@]}" --epub-cover-image=res/cover.svg -o "$OUT_NAME.epub"
+pandoc res/cover.svg "${sources[@]}" -o "$OUT_NAME.odt"
