@@ -1,14 +1,3 @@
----
-title:
-- type: main
-  text: Newcomer guide
-- type: subtitle
-  text: Welcome to Terra Frutis
-author: Terra Frutis
-rights:  Creative Commons Non-Commercial Share Alike 3.0
-language: en
-...
-
 # Introduction
 
 We created this short guide to ensure you receive the most vital information for living at Terra Frutis, including details that are easily forgotten.
