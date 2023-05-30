@@ -26,7 +26,7 @@ There are a few things that you are able to use here that carry a fee to cover t
 - The dryer can be used at $2 per load. Note each use on the log sheet.
 - The hot tub can be filled once per week (Saturday) for everyone to use for free. Every additional use is $5.
 
-Laundry, Mattresses And Utilities Are Billed Monthly. An Email Is Sent To Inform How Much Is Owed. If You're Planning on Staying Several Months, You're Encouraged To Pay For Several Months At A Time. In CaseeCasee  Of Departure, Any Excess Is Fully Refundable.
+Laundry, mattresses and utilities are billed monthly. An email is sent out to inform you of how much is owed. If you're planning on staying several months, you're encouraged to pay for several months at a time. In case of departure, any excess is fully refundable.
 
 
 ## For renters
@@ -46,6 +46,8 @@ We recommend water or leaves to clean your bum after pooping. Some (two) toilets
 We don't provide toilet paper but you can buy your own if you want.
 
 We request that you poop in the bucket because this provides valuable fertilizer (humanure) and limits the risks of having poop where we don't want. In an emergency you can poop outside, doing so in a place where people won't run into it. It could be in a mulch pile by a fruit tree (remove some mulch, poop and the cover it with the mulch). Always cover your poop well (e.g. with leaves) so that flies don't come and spread disease, and so that it's not visible.
+
+Buckets designated for the toilets are marked with a red ring, and should not be brought into/by the kitchen or other living spaces.
 
 Paper and cardboard are welcome in the compost.
 
