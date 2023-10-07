@@ -124,5 +124,3 @@ Avoid involving more people than necessary, for example in a group email or chat
 3. If that fails, bring it to a community meeting.
 
 For guidance during this process, refer to chapter 11 about conflict resolution in the NVC book.
-
-test
