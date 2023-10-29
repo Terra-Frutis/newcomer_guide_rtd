@@ -120,7 +120,7 @@ We encourage issues to be discussed as early as possible, not letting them linge
 Avoid involving more people than necessary, for example in a group email or chat involving many, or at the community meeting.
 
 1. First, exchange directly and privately with the person you have an issue with. As much as practical, use NVC (observation, feeling, need, request), and be respectful.
-2. If that fails, ask someone to mediate (Jonathan is a suggested mediator).
+2. If that fails, ask someone to mediate (Greyson is a suggested mediator).
 3. If that fails, bring it to a community meeting.
 
 For guidance during this process, refer to chapter 11 about conflict resolution in the NVC book.
