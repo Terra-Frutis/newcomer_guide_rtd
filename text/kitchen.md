@@ -4,6 +4,7 @@ As we are many sharing the kitchen, things are smoother when we all follow these
 
 ## General
 * **Clean after yourself**, as much as practical, leave the kitchen at least as clean and ordered as you encountered it. Sometimes people forget to clean things, please kindly remind the person to clean after themself or consider cleaning them yourself.
+* **Immediate Cleaning** We request that dishes, pots, surfaces, and any tools used are cleaned before leaving the kitchen.
 * **Have clean hands** to not dirty everything you touch.
 * **Use hand towels only to dry your hands**. Do not clean or dry surfaces with them, otherwise they get dirty or too wet.
 * **Don’t leave food or scraps behind** (to limit attracting insects), unless covered.
