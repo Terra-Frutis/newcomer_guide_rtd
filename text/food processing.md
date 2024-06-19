@@ -17,6 +17,6 @@ Some of the following steps may seem a waste of time. But they matter because ot
 ## For Dehydrating
 
 1. Slice bananas lengthwise. No thicker than 1 cm.
-2. Staying within the mesh, place slices in compact parallel, barely touching each other.
+2. Staying within the mesh, place slices in compact parallel pattern6x, barely touching each other.
 3. Speed up the drying process by flipping the slices once the first side is getting quite dry.
 4. For eating soon, they're best when slightly moist. For long-term storage (outside the fridge), full dryness is necessary.
