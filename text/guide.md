@@ -23,6 +23,10 @@ For those renting, the following are already included in the rent price:
 - Internet and electricity
 - Two washing machine loads and one dryer load per month
 
+# Breakages
+
+If you break or damage a communal item (kitchen or otherwise) please write it on the sheet pinned in the kitchen bulletin board. 
+
 
 # Compost toilet
 
