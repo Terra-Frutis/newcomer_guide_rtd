@@ -9,13 +9,11 @@ If anything is missing in this guide, you have any questions, or if you have sug
 
 There are a few things that you are able to use here that carry a fee to cover their expense. These are listed below:
 
-- Internet and electricity, $15/month.
-- Mattress rental, $10/month.
+- Utilities including internet and electricity, $25/month.
 - The washing machine, $1.50 per load. **Before each use**, log it on the dedicated form.
-- The dryer can be used at $2 per load. Note each use on the log sheet.
-- The hot tub can be filled once per week (Saturday) for everyone to use for free. Every additional use is $5.
-
-Laundry, mattresses and utilities are billed monthly. An email is sent out to inform you of how much is owed. If you're planning on staying several months, you're encouraged to pay for several months at a time. In case of departure, any excess is fully refundable.
+- The dryer can be used at $2 per load. **Before each use**, log it on the dedicated form.
+- The hot tub can be filled once per week (Saturday) for everyone to use for free. Every additional day of use is $5.
+-Laundry and utilities are billed monthly. An email is sent out to inform you of how much is owed. If you're planning on staying several months, you're encouraged to pay for several months at a time. In case of departure, any excess is fully refundable.
 
 
 ## For renters
@@ -23,7 +21,6 @@ Laundry, mattresses and utilities are billed monthly. An email is sent out to in
 For those renting, the following are already included in the rent price:
 
 - Internet and electricity
-- Mattress rental
 - Two washing machine loads and one dryer load per month
 
 
@@ -32,22 +29,23 @@ For those renting, the following are already included in the rent price:
 We use compost toilets here, which means we poop in a designated bucket and then we cover the poop with a couple handfuls of sawdust.
 
 We recommend water or leaves to clean your bum after pooping. Some (two) toilets have a bidet, otherwise, a small bottle of water does the job.
+
 We don't provide toilet paper but you can buy your own if you want.
 
-We request that you poop in the bucket because this provides valuable fertilizer (humanure) and limits the risks of having poop where we don't want. If you poop outside (in an emergency), make sure it's buried under soil in a hole that's at least 5 cm deep. Don't dig a hole near a fruit tree to avoid damaging their roots.
+We request that you poop in the bucket because this provides valuable fertilizer (humanure) and limits the risks of having poop where we don't want. If you poop outside (in an emergency), make sure it's buried under soil in a hole that's at least 5 cm deep. Don't dig a hole near a fruit tree or buildings to avoid damaging their roots.
 
-The buckets designated for the toilets are marked with a red ring. No other buckets should be used for that use. They should exclusively be used for poop and should not be brought into/by the kitchen or other living spaces. 
+The buckets designated for the toilets are marked with a red ring or are red. No other buckets should be used for poop. They should exclusively be used for poop and should not be brought into/by the kitchen or other living spaces. 
 
 Paper and cardboard are welcome in the compost.
 
 ## Urine
 
-When you're at an toilet to poop, it's fine to pee in the bucket. Otherwise, it's preferable not to, instead please urinate outside on a mulch pile. An alternative, especially good at night, is to pee in an appropriate container (this can then be used to fertilize further away).
+When you're at an toilet to poop, it's fine to pee in the bucket. Otherwise, it's preferable not to, instead please urinate outside on a useful plant. An alternative, especially good at night, is to pee in an appropriate container (this can then be used to fertilize further away).
 
 
 # Work
 
-Everyone (except renters) is expected to work a minimum of 20 hours per week. Most hours are met with farm-work. Sometimes there is organised group-work in the mornings led by an experienced TF member. For any hours not met by group-work (or in the case that there is no group-work), you are responsible for selecting tasks from the Trello board (see the link in your welcome email) and seeking instruction from either the person tagged if there is one, or a more experienced member.
+Everyone (except renters) is expected to work a minimum of 20 hours per week. Most hours are met with farm-work. Sometimes there is organised group-work in the mornings led by an experienced TF member. For any hours not met by group-work (or in the case that there is no group-work), tasks will be assigned in the weekly work meeting.
 
 Taking out compost buckets, attending specific classes such as NVC or permaculture workshops count towards your hours. Other responsibilities related to your skills / interests may be assigned to you, and those will also go towards your hours.
 
@@ -62,7 +60,7 @@ If you take time off, please compensate with a donation of $2.5 per hour.
 
 **The main concern** is snakes. They appear from time to time. **Be aware, keep your eyes open**.
 
-Although snake bites are very rare here, there are venomous, potentially deadly, snakes around. Most people recommend visiting the hospital if bitten, and to try to remember what the snake looked like so that they can provide the right anti-venom.
+Although snake bites are very rare here, there are venomous, potentially deadly, snakes around. Advise someone if you are bitten and you will be escorted to the hospital, and to try to remember what the snake looked like so that they can provide the right anti-venom.
 
 ## Machete
 
@@ -107,7 +105,7 @@ It is easy to get tested for parasites in town for $2, and both natural and conv
 
 # Community meetings
 
-We have community meetings usually once a week, where we discuss and take decisions on various subjects concerning the community. We use a consensus process where everyone's opinions and suggestions are taken into consideration. We use unanimity as decision rule. All are welcome to join the meeting but attendance is not mandatory. If you do not attend you will need to read the meeting minutes to not miss any important decisions that could affect you.
+We have community meetings once a week on Sundays at 9am, where we discuss and take decisions on various subjects concerning the community. We use a consensus process where everyone's opinions and suggestions are taken into consideration. We use unanimity as decision rule. All are welcome to join the meeting but attendance is not mandatory. If you do not attend you will need to read the meeting minutes to not miss any important decisions that could affect you.
 
 **Before you participate to meeting, we request you get familiar with consensus decision making** as we practice it.
 Options are the ["Consensus 101: Basic Training in Consensus"](https://youtu.be/_m3yjrC23Fc) video or the "Consensus-Oriented Decision-Making" book by Tim Hartnett.
