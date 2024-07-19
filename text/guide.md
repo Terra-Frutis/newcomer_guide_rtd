@@ -119,6 +119,8 @@ Options are the ["Consensus 101: Basic Training in Consensus"](https://youtu.be/
 
 # Conflict resolution
 
+All residents are requested to communicate in accordance with the Marshall Rosenberg model of communication called "Non Violent Communication". The community will organise or provide training and/or materials.
+
 We encourage issues to be discussed as early as possible, not letting them linger and accumulate.
 
 Avoid involving more people than necessary, for example in a group email or chat involving many, or at the community meeting.
