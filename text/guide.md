@@ -1,5 +1,3 @@
-test 1
-
 # Introduction
 
 We created this short guide to ensure you receive the most vital information for living at Terra Frutis, including details that are easily forgotten.
