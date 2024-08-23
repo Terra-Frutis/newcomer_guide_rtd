@@ -1,2 +1,2 @@
-master_doc = 'text/index'
+master_doc = 'index'
 extensions = ["myst_parser"]
