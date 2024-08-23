@@ -34,6 +34,6 @@ python:
   install:
     # - requirements: docs/requirements.txt
     - method: pip
-      # path: .
+      path: .
       extra_requirements:
         - myst_parser
