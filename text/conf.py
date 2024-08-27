@@ -26,5 +26,6 @@ latex_elements = {
 'maketitle': r'''
 \pagenumbering{arabic}
 ''',
+'extraclassoptions': 'openany,oneside'    
 }
 html_theme = "sphinx_rtd_theme"
