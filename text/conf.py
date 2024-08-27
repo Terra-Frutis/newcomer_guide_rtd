@@ -3,6 +3,11 @@ extensions = [
     "myst_parser",
     'sphinx_rtd_theme',
 ]
+html_theme = "epub"
+html_theme_options = {
+"footer": "false"
+    
+}
 latex_elements = {
 # The paper size ('letterpaper' or 'a4paper').
 'papersize': 'letterpaper',
