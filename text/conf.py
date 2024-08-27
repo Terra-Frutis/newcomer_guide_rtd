@@ -1,7 +1,7 @@
 master_doc = 'index'
 extensions = [
     "myst_parser",
-    'nature',
+    'sphinx_rtd_theme',
 ]
 html_theme = 'epub'
 html_theme_options = {
