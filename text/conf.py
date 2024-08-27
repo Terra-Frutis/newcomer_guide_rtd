@@ -1,9 +1,9 @@
 master_doc = 'index'
 extensions = [
     "myst_parser",
-    'sphinx_rtd_theme',
+    'nature',
 ]
-html_theme = "epub"
+html_theme = 'epub'
 html_theme_options = {
 "footer": "false",
     
