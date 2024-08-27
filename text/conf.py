@@ -5,7 +5,7 @@ extensions = [
 ]
 html_theme = "epub"
 html_theme_options = {
-"footer": "false"
+"footer": "false",
     
 }
 latex_elements = {
