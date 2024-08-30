@@ -21,7 +21,8 @@ jobs:
       - uses: actions/upload-artifact@v3
         with:
           name: output
-          path: output- name: convert md to pdf
+          path: output
+          - name: convert md to pdf
         uses: docker://pandoc/latex:2.9
         with:
           entrypoint: /bin/sh
