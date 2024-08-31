@@ -10,7 +10,7 @@ on:
     paths:
       - 'PDF/INPUT/**.md'
       #- '~/PDF/INPUT/images/**'
-      - 'PDF/OUTPUT'
+      - 'PDF/OUTPUT/'
 
 jobs:
   converttopdf:
