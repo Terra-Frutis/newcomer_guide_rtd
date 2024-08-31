@@ -9,7 +9,7 @@ const md2pdf = require('./markdown-to-pdf');
 const DEFAULT_THEME_FILE = '/styles/markdown.css';
 const DEFAULT_HIGHLIGHT_FILE = '/styles/highlight.css';
 const DEFAULT_TEMPLATE_FILE = '/template/template.html';
-const RUNNER_DIR = '/.github/workflows/';
+const RUNNER_DIR = '/.github/workspace/PDF';
 
 
 function getRunnerInput(name, def, transformer = val => val) {
