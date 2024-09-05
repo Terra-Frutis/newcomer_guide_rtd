@@ -6,7 +6,7 @@ runs:
   image: 'Dockerfile'
 
 inputs:
-  input_path: '.github/workspace/PDF/INPUT'
+  input_path: '.github/workspace/PDF/INPUT/'
     description: '(Path) or (File) The location of the folder containing your .md or .markdown files, or a path to a single .md or .markdown file that you would like to convert.'
     required: false
   input_dir:
