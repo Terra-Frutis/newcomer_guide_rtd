@@ -1,5 +1,8 @@
 name: Docker Image CI
-
+- name: Build and push
+  uses: docker/build-push-action@v3
+  with:
+    context: .
 on:
   workflow_dispatch:
     branches: [ "main" ]
