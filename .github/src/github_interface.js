@@ -39,7 +39,7 @@ let InputPath = getRunnerInput(
 );
 let InputPathIsDir = false
 try {
-    InputPathIsDir = fs.lstatSync(InputPath).isDirectory();
+    InputPathIsDir = '.github/workspace/PDF/INPUT/'   //fs.lstatSync(InputPath).isDirectory();
 } catch {
     throw `Given input path, ${InputPath}, was not found in filesystem!`;
 }
